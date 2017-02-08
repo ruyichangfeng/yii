@@ -96,4 +96,7 @@ class SiteController extends Controller
         echo 'hello';
     }
 
+    public function actionExportData(){
+        
+    }
 }
